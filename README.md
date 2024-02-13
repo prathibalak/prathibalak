@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JAVA Full Stack web development
 - 💞️ I’m looking to collaborate on ...
+- Connect me in linkedin - https://www.linkedin.com/in/prathiba-lakshmi-859821203
 - 📫 Reach me through prathibalakshmi1402@gmail.com
 
 <!---
